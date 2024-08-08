@@ -1,4 +1,8 @@
 {
     "java.compile.nullAnalysis.mode": "automatic",
-    "java.configuration.updateBuildConfiguration": "interactive"
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "search.exclude": {
+        "**/node_modules": false
+    },
+    "search.useGlobalIgnoreFiles": true
 }
